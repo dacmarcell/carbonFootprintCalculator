@@ -1,0 +1,26 @@
+### Calculate carbon footprint // Calcular pegada de carbono
+
+POST http://localhost:8000/api/calculate
+Content-Type: application/json
+
+{
+  "transport": [
+    {
+      "type": "car",
+      "distance": 120,
+      "efficiency": 15,
+      "factor": 2.31
+    },
+    {
+      "type": "bus",
+      "distance": 50,
+      "efficiency": 8,
+      "factor": 0.05
+    }
+  ],
+  "electricity": 100,
+  "electricity_factor": 0.5,
+  "diet": "vegetarian",
+  "consumption": 200,
+  "waste": 30
+}
