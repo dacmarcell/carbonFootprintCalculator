@@ -25,7 +25,9 @@ php artisan test
 
 ### Dependências
 
--   Guzzle
+-   php
+-   composer
+-   postgresql
 
 ### O que é a pegada de carbono?
 
