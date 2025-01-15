@@ -85,7 +85,7 @@ php artisan test
 
 -   Guzzle
 
-### O QUE É A PEGADA DE CARBONO?
+### O que é a pegada de carbono?
 
 Avaliar a pegada de carbono é o processo de medir a quantidade de carbono liberada na atmosfera. Essa medida pode ser feita em nível individual, por atividades, eventos, empresas, organizações e governos.
 
