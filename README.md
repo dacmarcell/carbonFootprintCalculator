@@ -73,4 +73,10 @@ composer install
 
 ### Dependências
 
--   Gutter
+-   Guzzle
+
+### O QUE É A PEGADA DE CARBONO?
+
+Avaliar a pegada de carbono é o processo de medir a quantidade de carbono liberada na atmosfera. Essa medida pode ser feita em nível individual, por atividades, eventos, empresas, organizações e governos.
+
+Ao calcular a pegada de carbono, consideramos as emissões totais de gases de efeito estufa, como o dióxido de carbono (CO2) e o metano (CH4), provenientes das atividades humanas em nosso planeta.
