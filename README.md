@@ -65,10 +65,20 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-### Como rodar?
+### Como rodar app?
 
 ```bash
 composer install
+```
+
+```bash
+php artisan serve
+```
+
+### Como rodar testes?
+
+```bash
+php artisan test
 ```
 
 ### Dependências
